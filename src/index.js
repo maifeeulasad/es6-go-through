@@ -1,17 +1,42 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+// Variable declaration
 
-ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
-);
+// var a = "abc"
+// console.log(a)
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+// const pi = 3.14
+// let c = 5
+
+// console.log(pi)
+// console.log(c)
+
+// We can't change the value for `const`
+// pi = 3.14159
+// c = 5.1
+// console.log(c)
+
+/*
+var a = "a-----"
+
+{
+    var b="b---------"
+    console.log(a)
+    console.log(b)
+}
+console.log(a)
+console.log(b)
+*/
+
+
+/*
+let a = "a++++++"
+
+{
+    let b = "b++++++++++++++++++"
+    console.log(a)
+    console.log(b)
+}
+
+console.log(a)
+//console.log(b)
+
+ */
